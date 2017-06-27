@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The Sign Of The Four",
-  "type": "text"
+  "name": "The Sign of the Four",
+  "type": "text",
+  "book_id": 460
 }

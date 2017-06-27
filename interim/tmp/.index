@@ -1,1 +1,14 @@
-{}
+{
+  "0": "<li><a class = \"page\" href=\"7\"> Chapter I - The Science of Deduction </a> <span class=\"flex\">7</span> </li>",
+  "1": "<li><a class = \"page\" href=\"30\"> Chapter II - The Statement of the Case </a> <span class=\"flex\">30</span> </li>",
+  "2": "<li><a class = \"page\" href=\"45\"> Chapter III - In Quest of a Solution </a> <span class=\"flex\">45</span> </li>",
+  "3": "<li><a class = \"page\" href=\"59\"> Chapter IV - The Story of the Bald-Headed Man </a> <span class=\"flex\">59</span> </li>",
+  "4": "<li><a class = \"page\" href=\"86\"> Chapter V - The Tragedy of Pondicherry Lodge </a> <span class=\"flex\">86</span> </li>",
+  "5": "<li><a class = \"page\" href=\"107\"> Chapter VI - Sherlock Holmes Gives a Demonstration </a> <span class=\"flex\">107</span> </li>",
+  "6": "<li><a class = \"page\" href=\"132\"> Chapter VII - The Episode of the Barrel </a> <span class=\"flex\">132</span> </li>",
+  "7": "<li><a class = \"page\" href=\"164\"> Chapter VIII - The Baker Street Irregulars </a> <span class=\"flex\">164</span> </li>",
+  "8": "<li><a class = \"page\" href=\"191\"> Chapter IX - A Break in the Chain </a> <span class=\"flex\">191</span> </li>",
+  "9": "<li><a class = \"page\" href=\"221\"> Chapter X - The End of the Islander </a> <span class=\"flex\">221</span> </li>",
+  "10": "<li><a class = \"page\" href=\"245\"> Chapter XI - The Great Agra Treasure </a> <span class=\"flex\">245</span> </li>",
+  "11": "<li><a class = \"page\" href=\"262\"> Chapter XII - The Strange Story of Jonathan Small </a> <span class=\"flex\">262</span> </li>"
+}
